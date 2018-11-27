@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,,,2018-11-23 09:56:35,2018-11-23 09:57:41,1m - 6.076s,FAILED
+,,,,,,
+Test Cases/New Test Case,,,2018-11-23 09:56:36,2018-11-23 09:57:41,1m - 5.212s,FAILED
+openBrowser,,,2018-11-23 09:56:37,2018-11-23 09:57:39,1m - 2.552s,FAILED
+navigateToUrl,,,2018-11-23 09:57:39,2018-11-23 09:57:39,0.046s,FAILED
+"Statement - For ([row = 1, row <= com.kms.katalon.core.testdata.TestDataFactory.findTestData(myData).getRowNumbers(), (row++)])",,,2018-11-23 09:57:39,2018-11-23 09:57:41,1.820s,FAILED
+closeBrowser,,,2018-11-23 09:57:41,2018-11-23 09:57:41,0.023s,PASSED

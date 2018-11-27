@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Firefox 63.0,,2018-11-26 13:47:24,2018-11-26 13:47:55,31.079s,PASSED
+,,,,,,
+Test Cases/New Test Case,Firefox 63.0,,2018-11-26 13:47:26,2018-11-26 13:47:55,29.343s,PASSED
+openBrowser,Firefox 63.0,,2018-11-26 13:47:27,2018-11-26 13:47:40,12.737s,PASSED
+navigateToUrl,Firefox 63.0,,2018-11-26 13:47:40,2018-11-26 13:47:41,1.562s,PASSED
+"Statement - For ([row = 1, row <= com.kms.katalon.core.testdata.TestDataFactory.findTestData(myData).getRowNumbers(), (row++)])",Firefox 63.0,,2018-11-26 13:47:41,2018-11-26 13:47:53,12.107s,PASSED
+closeBrowser,Firefox 63.0,,2018-11-26 13:47:53,2018-11-26 13:47:55,1.804s,PASSED

@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 70.0.3538.110,,2018-11-26 13:47:24,2018-11-26 13:47:56,31.363s,PASSED
+,,,,,,
+Test Cases/New Test Case,Chrome 70.0.3538.110,,2018-11-26 13:47:26,2018-11-26 13:47:56,29.493s,PASSED
+openBrowser,Chrome 70.0.3538.110,,2018-11-26 13:47:28,2018-11-26 13:47:35,6.931s,PASSED
+navigateToUrl,Chrome 70.0.3538.110,,2018-11-26 13:47:35,2018-11-26 13:47:36,1.730s,PASSED
+"Statement - For ([row = 1, row <= com.kms.katalon.core.testdata.TestDataFactory.findTestData(myData).getRowNumbers(), (row++)])",Chrome 70.0.3538.110,,2018-11-26 13:47:36,2018-11-26 13:47:54,17.893s,PASSED
+closeBrowser,Chrome 70.0.3538.110,,2018-11-26 13:47:54,2018-11-26 13:47:56,1.420s,PASSED

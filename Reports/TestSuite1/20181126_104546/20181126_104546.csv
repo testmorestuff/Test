@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Edge 16,,2018-11-26 10:45:50,2018-11-26 10:46:22,31.408s,PASSED
+,,,,,,
+Test Cases/New Test Case,Edge 16,,2018-11-26 10:45:52,2018-11-26 10:46:22,29.717s,PASSED
+openBrowser,Edge 16,,2018-11-26 10:45:53,2018-11-26 10:46:01,8.219s,PASSED
+navigateToUrl,Edge 16,,2018-11-26 10:46:01,2018-11-26 10:46:02,1.197s,PASSED
+"Statement - For ([row = 1, row <= com.kms.katalon.core.testdata.TestDataFactory.findTestData(myData).getRowNumbers(), (row++)])",Edge 16,,2018-11-26 10:46:02,2018-11-26 10:46:13,10.322s,PASSED
+closeBrowser,Edge 16,,2018-11-26 10:46:13,2018-11-26 10:46:22,8.916s,PASSED
