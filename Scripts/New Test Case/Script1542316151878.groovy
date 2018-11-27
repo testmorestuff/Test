@@ -17,7 +17,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://en.wikipedia.org/wiki/Main_Page')
-
+//
 for (def row = 1; row <= findTestData('myData').getRowNumbers(); row++) {
     WebUI.navigateToUrl(findTestData('myData').getValue(1, row))
 
